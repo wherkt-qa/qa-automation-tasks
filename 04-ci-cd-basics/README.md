@@ -18,8 +18,8 @@ Based on the coursework requirements, this project covers:
 
 ## 📁 Folder Structure
 
-* 📁 [**`github-actions-config/`**](./github-actions-config/): Contains the `.github/workflows/main.yaml` file, which is the automated pipeline definition.
-* 📁 [**`project-manifest/`**](./project-manifest/)./: Includes `package.json` and `cypress.config.js` used to define the project environment.
+* 📁 [**`.github/workflows/`**](./.github/workflows/): Contains the `main.yaml` file, which is the automated pipeline definition.
+* 📁 [**`project-manifest/`**](./project-manifest/): Includes `package.json` and `cypress.config.js` used to define the project environment.
 * 📁 [**`ci-test-suite/`**](./ci-test-suite/): A lightweight set of Cypress tests used to verify that the CI pipeline executes correctly.
 
 ---
