@@ -2,7 +2,7 @@
 
 This module demonstrates the implementation of **Continuous Integration (CI)** for automated testing. The primary goal was to configure a workflow that automatically executes tests upon every code push to the repository, ensuring early bug detection and stable code delivery.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 Based on the coursework requirements, this project covers:
 * **Workflow Automation**: Setting up **GitHub Actions** to trigger test suites on `push` and `pull_request` events.
@@ -10,7 +10,7 @@ Based on the coursework requirements, this project covers:
 * **Dependency Management**: Ensuring consistent test runs by leveraging `package.json` and automated environment setup.
 * **Status Monitoring**: Integration of GitHub's check runs to provide immediate feedback on build health and test results.
 
-## 💻 Technology Stack
+## Technology Stack
 * **CI Provider**: GitHub Actions
 * **Test Runner**: Cypress
 * **Language**: JavaScript / Node.js
@@ -24,7 +24,7 @@ Based on the coursework requirements, this project covers:
 
 ---
 
-## 💡How it Works (CI Pipeline)
+## How it Works (CI Pipeline)
 
 The automated process defined in `main.yaml` follows these steps:
 1. **Checkout**: The code is pulled from the repository to the GitHub runner.
@@ -35,7 +35,7 @@ The automated process defined in `main.yaml` follows these steps:
 
 ---
 
-## 🚀 How to Run the Tests Locally
+## How to Run the Tests Locally
 
 1.  **Open the Project**: Navigate to the `04-ci-cd-basics` folder in your terminal.
 2.  **Install Dependencies**:
