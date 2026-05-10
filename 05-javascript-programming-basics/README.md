@@ -2,7 +2,7 @@
 
 This module serves as a solid foundation for test automation. Understanding DOM manipulation, asynchronous operations, and API interactions is essential for creating stable and efficient automated test suites.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 This section demonstrates my proficiency in:
 *   **DOM Manipulation**: Dynamic element selection, traversal, and content updates.
@@ -24,7 +24,7 @@ Showcases advanced JS concepts crucial for modern web applications.
 *   **Error Handling**: Implementing user notifications (Notiflix) for 404 responses from the API.
 
 
-## ⚡ Key Skills for Automation
+## Key Skills for Automation
 
 ### Reliability & UX
 The implementation of `disabled` states for buttons during active processes (like in the Color Switcher) prevents race conditions—a vital concept in preventing flaky automated tests.
@@ -37,7 +37,7 @@ The `fetchCountries` logic demonstrates the ability to parse JSON responses and 
 
 ---
 
-## 🚀 How to Review
+## How to Review
 Since these tasks were built using professional bundling tools (Parcel):
 1.  **Code Inspection**: Navigate to the `js/` folders within each sub-module to review the logic and clean code practices.
 2.  **Logic Execution**: Open the `.html` files in a browser. While some styles/imports might require a local server to run perfectly, the underlying logic is clearly visible in the source files.
