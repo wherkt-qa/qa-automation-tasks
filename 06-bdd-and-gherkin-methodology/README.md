@@ -2,7 +2,7 @@
 
 This module demonstrates my ability to translate business requirements into clear, executable test scenarios using the **Behavior-Driven Development (BDD)** approach and **Gherkin** syntax.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 This module focused on the practical application of Gherkin syntax to model real-world user behaviors:
 
