@@ -2,7 +2,7 @@
 
 This section of the repository focuses on automated API testing using the **Cypress** framework. The primary goal was to demonstrate the ability to interact with various HTTP endpoints, handle asynchronous requests, and validate data integrity.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 Based on the coursework requirements, this module demonstrates:
 * **HTTP Method Coverage**: Implementation of tests for `GET`, `POST`, `PUT`, `PATCH`, and `DELETE`.
@@ -11,7 +11,7 @@ Based on the coursework requirements, this module demonstrates:
 * **Response Validation**: Asserting correct status codes and verifying the integrity of the response body.
 * **Performance Testing**: Measuring and asserting response duration (Time-to-First-Byte and total duration).
 
-## 💻 Testing Environment
+## Testing Environment
 
 The tests are executed against the [httpbin.org (https://httpbin.org/#/) public service. This platform allows for comprehensive testing of various HTTP request and response scenarios in a controlled, public environment.
 
@@ -25,7 +25,7 @@ To show a clear progression in testing complexity, the files are organized as fo
 
 ---
 
-## 🚀 How to Run the Tests
+## How to Run the Tests
 
 Follow these steps to set up the environment and run the API automation suite:
 
