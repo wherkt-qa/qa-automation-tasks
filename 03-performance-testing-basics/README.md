@@ -24,8 +24,8 @@ The performance tests are targeted at the [Chuck Norris Jokes API](https://api.c
 
 ## 📁 Folder Structure:
 
-*  📁 **`artillery-scripts/`**: Contains the main configuration files (`API.yml`, `test.yml`) defining the load phases and scenarios.
-*  📁 **`test-data/`**: Stores external data sources (`keywords.csv`) used for payload injection.
+*  📁 [**`artillery-scripts/`**](./artillery-scripts/): Contains the main configuration files (`API.yml`, `test.yml`) defining the load phases and scenarios.
+*  📁 [**`test-data/`**](./test-data/)*: Stores external data sources (`keywords.csv`) used for payload injection.
 
 ---
 
