@@ -19,9 +19,9 @@ The tests are executed against the [httpbin.org (https://httpbin.org/#/) public 
 
 To show a clear progression in testing complexity, the files are organized as follows:
 
-*  📁 **`01-basic-api-scripts/`**: Initial API test scripts covering basic request/response flows (e.g., `httpAPI.cy.js`).
-*  📁 **`02-advanced-api-tests/`**: Tests utilizing the `fixtures/` directory to manage external JSON data for complex request bodies.
-*  📁 **`03-api-performance-and-config/`**: Configuration files and custom commands within the `support/` directory to optimize the API testing framework.
+*  📁 [**`01-basic-api-scripts/`**](./01-basic-api-scripts/): Initial API test scripts covering basic request/response flows (e.g., `httpAPI.cy.js`).
+*  📁 [**`02-advanced-api-tests/`**](./02-advanced-api-tests/): Tests utilizing the `fixtures/` directory to manage external JSON data for complex request bodies.
+*  📁 [**`03-api-performance-and-config/`**](./03-api-performance-and-config/): Configuration files and custom commands within the `support/` directory to optimize the API testing framework.
 
 ---
 
