@@ -12,12 +12,12 @@ This section demonstrates my proficiency in:
 
 ## 📁 Folder Structure
 
-### 1. 📁 `dom-and-events`
+### 📁 [dom-and-events](./dom-and-events)
 Focuses on the basics of interacting with a web page.
 *   **Key Tasks**: Gallery filtering, interactive lists, and event listeners for user actions.
 *   **Skills**: `querySelector`, `addEventListener`, and dynamic CSS class toggling.
 
-### 2. 📁 `async-and-promises`
+### 📁 [async-and-promises](/.async-and-promises)
 Showcases advanced JS concepts crucial for modern web applications.
 *   **Color Switcher**: Demonstrates interval management with `setInterval` and `clearInterval`, including UI state handling (button disabling).
 *   **Country Search**: A complex integration using the `fetch` API, handling Promises, and implementing **Debounce** to optimize network requests.
