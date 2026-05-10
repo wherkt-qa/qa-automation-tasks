@@ -2,7 +2,7 @@
 
 This module demonstrates the practical application of load testing using the **Artillery** framework. The goal was to design a performance test suite for a public API, implementing realistic traffic phases and validating critical performance metrics.
 
-## 🎯Project Objectives
+## Project Objectives
 
 Based on the coursework requirements, this project covers:
 * **Load Phase Configuration**: Implementing specific testing types (e.g., arrival rates over a fixed duration).
@@ -13,7 +13,7 @@ Based on the coursework requirements, this project covers:
     * `http.response_time.max` (monitoring peak response times).
     * `vusers.failed` (ensuring 100% success rate under load).
 
-## 💻 Testing Environment:
+## Testing Environment:
 
 The performance tests are targeted at the [Chuck Norris Jokes API](https://api.chucknorris.io), selected from the public API directory.
 
@@ -29,7 +29,7 @@ The performance tests are targeted at the [Chuck Norris Jokes API](https://api.c
 
 ---
 
-## 🚀 How to Run the Tests:
+## How to Run the Tests:
 
 To execute the performance tests on your local machine, follow these steps:
 
