@@ -20,7 +20,7 @@ This section demonstrates my progress in web automation, moving from basic scrip
 
 ---
 
-## ⚡ Key Skills Demonstrated
+## Key Skills Demonstrated
 * **E2E Testing**: Automating full user flows (Login, Navigation).
 * **Page Object Model (POM)**: Structuring code for high maintainability.
 * **Asynchronous Commands**: Handling Cypress chain of commands and assertions (`should`, `expect`).
@@ -28,7 +28,7 @@ This section demonstrates my progress in web automation, moving from basic scrip
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Follow these steps to set up the environment and run the API automation suite:
 
@@ -44,7 +44,7 @@ npx cypress open
 ```
 5. **Run the Test**: In the "Specs" tab, locate the file named `login.cy.js` (found in the `e2e/` directory) and click on it.
 
-### 🔍 What the Test Does:
+### What the Test Does:
 The script automates the login process on **GoIT Global**. It demonstrates the use of the **Page Object Pattern** by:
 * Navigating to the login page.
 * Interacting with elements defined in the `pages/` directory.
